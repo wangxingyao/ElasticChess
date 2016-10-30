@@ -1,0 +1,11 @@
+angleA =   0.00   angleNA =  -2.25   anglePNA =   3.14   angleZA =  -0.89   angleAB =   2.25 
+VA     =   0.00   VNA     =   0.00   VPNA     =   0.00   VZA     =   0.00
+VAX    =   0.00   VNAX    =  -0.00   VPNAX    =  -0.00   VZAX    =   0.00
+VAY    =   0.00   VNAY    =  -0.00   VPNAY    =  -0.00   VZAY    =  -0.00
+EkA    =   0.00   EkNA    =   0.00   EkPNA    =   0.00   EkZA    =   0.00
+
+angleB =   0.66   angleNB =  -1.59   anglePNB =  -1.55   angleZB =   0.70   angleAB =   2.25 
+VB     =   9.65   VNB     =   9.65   VPNB     =   9.65   VZB     =   9.65
+VBX    =   7.63   VNBX    =  -0.22   VPNBX    =   0.22   VZBX    =   7.35
+VBY    =   5.91   VNBY    =  -9.65   VPNBY    =  -9.65   VZBY    =   6.25
+EkB    =   9.01   EkNB    =   9.01   EkPNB    =   9.01   EkZB    =   9.01
