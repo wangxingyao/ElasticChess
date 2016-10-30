@@ -28,6 +28,7 @@ def main():
     pygame.font.init()
     size = 1024, 576    # 490 542
     fullsize = pygame.display.list_modes()[0]   # 获得全屏尺寸
+    fullsize = 1366, 1024
     screen = pygame.display.set_mode(size, pygame.RESIZABLE)
     pygame.display.set_caption("Star War  -- Wxy")
     
